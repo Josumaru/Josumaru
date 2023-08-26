@@ -7,7 +7,7 @@
 <div>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Josumaru&theme=vue-dark&hide_border=true"></img>
 </div>
-<div align="center">
+<div>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josumaru&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"></img>
 </div>
 
