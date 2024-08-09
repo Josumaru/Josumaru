@@ -97,7 +97,17 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=josumaru&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" width="100%" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josumaru&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
+</div>
+
+###
+
+<h6 align="left">Graph</h6>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josumaru&radius=16&theme=vue&area=true&order=5&custom_title=Contribution&hide_border=false&hide_title=false" width="100%" alt="activity-graph graph"  />
 </div>
 
 ###
